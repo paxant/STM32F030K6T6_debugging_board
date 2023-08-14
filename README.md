@@ -1,0 +1,1 @@
+# STM32F030K6T6_debugging_board
