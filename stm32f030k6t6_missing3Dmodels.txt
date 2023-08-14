@@ -1,0 +1,51 @@
+### Missing 3D models - created on 2022-07-24 13:53
+### Printed by checking_3D_models plugin
+Board file: /home/pov/2/stm32f030k6t6.kicad_pcb
+3D missing models written to:
+/home/pov/2/stm32f030k6t6_missing3Dmodels.txt
+-------
+('C12', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl')
+('SW1', '/usr/share/kicad/3dmodels/Button_Switch_SMD.3dshapes/SW_SPST_FSMSM.wrl')
+('J6', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl')
+('J4', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl')
+('J13', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl')
+('D3', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-123.wrl')
+('R1', '/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0201_0603Metric.wrl')
+('Y1', '/usr/share/kicad/3dmodels/Crystal.3dshapes/Crystal_HC18-U_Vertical.wrl')
+('J5', '/usr/share/kicad/3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl')
+('D1', '/usr/share/kicad/3dmodels/LED_SMD.3dshapes/LED_0603_1608Metric.wrl')
+('D2', '/usr/share/kicad/3dmodels/LED_SMD.3dshapes/LED_0603_1608Metric.wrl')
+('J8', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl')
+('C10', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('J14', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl')
+('J3', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl')
+('R5', '/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl')
+('R4', '/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl')
+('J10', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl')
+('C1', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl')
+('R2', '/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0201_0603Metric.wrl')
+('J2', '/usr/share/kicad/3dmodels/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10104110_Horizontal.wrl')
+('J11', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl')
+('C4', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('R3', '/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl')
+('C13', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('J12', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl')
+('Q1', '/usr/share/kicad/3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl')
+('J15', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl')
+('C2', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl')
+('J7', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl')
+('C8', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('C6', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('R6', '/usr/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl')
+('C5', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('C7', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('C14', '/usr/share/kicad/3dmodels/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl')
+('J9', '/usr/share/kicad/3dmodels/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl')
+('C3', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('U1', '/usr/share/kicad/3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl')
+('J1', '/usr/share/kicad/3dmodels/Package_QFP.3dshapes/LQFP-32_7x7mm_P0.8mm.wrl')
+('C11', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+('C9', '/usr/share/kicad/3dmodels/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl')
+-------
+NUM of 3D missing models:42
+checked extensions ['.stp', '.step', '.stpZ']
